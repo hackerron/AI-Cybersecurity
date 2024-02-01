@@ -22,4 +22,5 @@ Resources:
   -- OWASP Machine Learning Top 10 (2023 ed draft), https://mltop10.info/ <br />
   -- OWASP AI Security Matrix, https://owaspai.org/docs/ai_security_overview/ <br />
   -- OWASP Project AI Security and Privacy Guide, https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md <br />
+
 [[[More to come]]]
