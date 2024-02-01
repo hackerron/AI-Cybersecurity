@@ -3,6 +3,8 @@ AI Cybersecurity Resources
 Created January 31, 2024
 AI / ML / LLMs / NLP is a hot topic. It's even hotter when you add cybersecurity. 
 This is my research on AI Cybersecurity originally developed for presentation to the AI Omaha meetup. 
+![image](https://github.com/hackerron/AI-Cybersecurity/assets/59797994/162b7584-47bb-4532-ac6b-bfd332ead7b8)
+CC-BY-NC-SA
 
 Resources:
 - Kumar, et.al., Failure modes in machine learning. Microsoft Learn, Microsoft, (2022, November 2). https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning 
