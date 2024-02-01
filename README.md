@@ -17,9 +17,9 @@ Resources:
 - MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems), https://atlas.mitre.org/
 - Microsoft, How to approach machine learning operations, Dec 1, 2022, https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/how-to-approach-mlops
 - MLSecOps Community, MLSecOps Defined, https://mlsecops.com/what-is-mlsecops
-- OWASP AI Exchange, https://owaspai.org/ 
-  -- OWASP Top 10  for LLM Applications, https://llmtop10.com/ 
-  -- OWASP Machine Learning Top 10 (2023 ed draft), https://mltop10.info/ 
-  -- OWASP AI Security Matrix, https://owaspai.org/docs/ai_security_overview/ 
-  -- OWASP Project AI Security and Privacy Guide, https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md 
+- OWASP AI Exchange, https://owaspai.org/ <br />
+  -- OWASP Top 10  for LLM Applications, https://llmtop10.com/ <br />
+  -- OWASP Machine Learning Top 10 (2023 ed draft), https://mltop10.info/ <br />
+  -- OWASP AI Security Matrix, https://owaspai.org/docs/ai_security_overview/ <br />
+  -- OWASP Project AI Security and Privacy Guide, https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md <br />
 [[[More to come]]]
