@@ -6,7 +6,7 @@ This is my research on AI Cybersecurity originally developed for presentation to
 CC-BY-NC-SA
 
 Resources:
-- Kumar, et.al., <i>Failure modes in machine learning. Microsoft Learn </i>, Microsoft, (2022, November 2). https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning 
+- Kumar, et.al., <i>Failure modes in machine learning. Microsoft Learn</i>, Microsoft, (2022, November 2). https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning 
 - NCSC (UK) & CISA (US), <i>Guidelines for Secure AI Development</i>, https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf
 - NCSC, <i>The near-term impact of AI on the cyber threat</i>, January 24, 2024, https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat 
 - CISA, 2023-2024 <i>Roadmap for Artificial Intelligence</i>, November 2023, https://www.cisa.gov/sites/default/files/2023-11/2023-2024_CISA-Roadmap-for-AI_508c.pdf
