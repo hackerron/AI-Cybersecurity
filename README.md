@@ -24,6 +24,10 @@ Resources:
   -- OWASP Machine Learning Top 10 (2023 ed draft), https://mltop10.info/ <br />
   -- OWASP AI Security Matrix, https://owaspai.org/docs/ai_security_overview/ <br />
   -- OWASP Project AI Security and Privacy Guide, https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md <br />
+- ForHumanity, <i>ForHumanity's Audit Manual 1.5, For Independent Audit of AI Systems</i>, https://forhumanity.center/web/wp-content/uploads/2023/08/ForHumanity-IAAIS-Audit-Manual-v1.5.pdf
+- European Union (EU) <i>Artificial Intelligence ACT (AI ACT)</i>, 2024, https://artificialintelligenceact.eu/the-act/
+- United States White House, <i>Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</i>, Oct 23, 2023, https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
+- - United States White House, <i>Fact Sheet: Biden-⁠Harris Administration Announces Key AI Actions Following President Biden’s Landmark Executive Order</i>, Jan 29, 2024, https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-key-ai-actions-following-president-bidens-landmark-executive-order/
 - [Training] Kelly, D., <i>Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes</i>, LinkedIn Learning, Feb 23, 2022, https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/
 - [Book] Hutchens, J., <i>The Language of Deception: Weaponizing Next Generation AI</i>, (2023), Wiley, ISBN-13: 978-1394222544, https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548 
 - [Book] Baker, P., <i>ChatGPT for Dummies</i>, (2023), ISBN-13: 978-1394204632
