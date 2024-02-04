@@ -25,8 +25,8 @@ Resources:
   -- OWASP AI Security Matrix, https://owaspai.org/docs/ai_security_overview/ <br />
   -- OWASP Project AI Security and Privacy Guide, https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md <br />
 - [Training] Kelly, D., <i>Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes</i>, LinkedIn Learning, Feb 23, 2022, https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/
-- [Book] Hutchens, J., The Language of Deception: Weaponizing Next Generation AI, (2023), Wiley, ISBN-13: 978-1394222544, https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548 
-- [Book]Baker, P., ChatGPT for Dummies, (2023), ISBN-13: 978-1394204632
+- [Book] Hutchens, J., <i>The Language of Deception: Weaponizing Next Generation AI</i>, (2023), Wiley, ISBN-13: 978-1394222544, https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548 
+- [Book] Baker, P., <i>ChatGPT for Dummies</i>, (2023), ISBN-13: 978-1394204632
 
 
 [[[More to come]]]
