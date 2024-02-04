@@ -25,6 +25,7 @@ Resources:
   -- OWASP AI Security Matrix, https://owaspai.org/docs/ai_security_overview/ <br />
   -- OWASP Project AI Security and Privacy Guide, https://github.com/OWASP/www-project-ai-security-and-privacy-guide/blob/main/owaspaiexchange.md <br />
 - ForHumanity, <i>ForHumanity's Audit Manual 1.5, For Independent Audit of AI Systems</i>, https://forhumanity.center/web/wp-content/uploads/2023/08/ForHumanity-IAAIS-Audit-Manual-v1.5.pdf
+- European Union (EU), <i>A European approach to artificial intelligence </i>, https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence
 - European Union (EU) <i>Artificial Intelligence ACT (AI ACT)</i>, 2024, https://artificialintelligenceact.eu/the-act/
 - United States White House, <i>Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</i>, Oct 23, 2023, https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
 - - United States White House, <i>Fact Sheet: Biden-⁠Harris Administration Announces Key AI Actions Following President Biden’s Landmark Executive Order</i>, Jan 29, 2024, https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-key-ai-actions-following-president-bidens-landmark-executive-order/
