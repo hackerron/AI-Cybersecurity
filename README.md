@@ -7,6 +7,7 @@ Someone asked me to create a curated, annotated bibliography based on value. Tha
 CC-BY-NC-SA
 
 Resources:
+- BethanyJep GitHub, <i>AI for beginners, A Curriculum</i>, https://github.com/microsoft/AI-For-Beginners
 - Kumar, et.al., <i>Failure modes in machine learning. Microsoft Learn</i>, Microsoft, (2022, November 2). https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning 
 - NCSC (UK) & CISA (US), <i>Guidelines for Secure AI Development</i>, https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf
 - NCSC, <i>The near-term impact of AI on the cyber threat</i>, January 24, 2024, https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat 
