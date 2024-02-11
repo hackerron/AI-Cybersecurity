@@ -44,5 +44,5 @@ Resources:
 - [Book] Hutchens, J., <i>The Language of Deception: Weaponizing Next Generation AI</i>, (2023), Wiley, ISBN-13: 978-1394222544, https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548 
 - [Book] Baker, P., <i>ChatGPT for Dummies</i>, (2023), ISBN-13: 978-1394204632
 
-
+See <a href="https://www.linkedin.com/feed/update/urn:li:activity:7160047820777877504/">The original LinkedIn Post</a> for more information.<br />
 [[[More to come]]]
