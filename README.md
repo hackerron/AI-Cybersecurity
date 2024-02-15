@@ -14,6 +14,7 @@ Resources:
 - CISA, 2023-2024 <i>Roadmap for Artificial Intelligence</i>, November 2023, https://www.cisa.gov/sites/default/files/2023-11/2023-2024_CISA-Roadmap-for-AI_508c.pdf
 - CISA, <i>Software Must Be Secure by Design, and Artificial Intelligence Is No Exception</i>, Aug 18, 2023 https://www.cisa.gov/news-events/news/software-must-be-secure-design-and-artificial-intelligence-no-exception
 - CISA, <i>Secure by Design</i>, https://www.cisa.gov/securebydesign
+- NIST Artificial Intelligence, https://www.nist.gov/artificial-intelligence
 - NIST AI Risk Management Framework 1.0, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf
 - NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems, Jan 04, 2024, https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems
 - Cloud Security Alliance (CSA), <i>AI Safety Initiative</i>, https://cloudsecurityalliance.org/research/working-groups/artificial-intelligence/ CSA, Security Implications of ChatGPT, Aug 2, 2023, https://cloudsecurityalliance.org/artifacts/security-implications-of-chatgpt/ 
