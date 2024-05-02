@@ -1,14 +1,16 @@
 # AI-Cybersecurity
 AI Cybersecurity Resources
 Created January 31, 2024
+Updated May 2, 2024
 AI / ML / LLMs / NLP is a hot topic. It's even hotter when you add cybersecurity. 
 This is my research on AI Cybersecurity originally developed for presentation to the AI Omaha meetup. <br />
 Someone asked me to create a curated, annotated bibliography based on value. That is in development. I'm shy about creating a list showing value because it depends on the audience...<br />
 CC-BY-NC-SA
 
 Resources:
+- Cloud Security Alliance (CSA), <i>AI Governance & Compliance Resource Links Hub</i>, https://cloudsecurityalliance.org/ai-governance-compliance-resource-links
 - BethanyJep GitHub, <i>AI for beginners, A Curriculum</i>, https://github.com/microsoft/AI-For-Beginners
-- Kumar, et.al., <i>Failure modes in machine learning. Microsoft Learn</i>, Microsoft, (2022, November 2). https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning 
+- Kumar, et.al., <i>Failure modes in machine learning. Microsoft Learn</i>, Microsoft, (2022, November 2), https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning 
 - NCSC (UK) & CISA (US), <i>Guidelines for Secure AI Development</i>, https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf
 - NCSC, <i>The near-term impact of AI on the cyber threat</i>, January 24, 2024, https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat 
 - CISA, 2023-2024 <i>Roadmap for Artificial Intelligence</i>, November 2023, https://www.cisa.gov/sites/default/files/2023-11/2023-2024_CISA-Roadmap-for-AI_508c.pdf
