@@ -1,7 +1,7 @@
 # AI-Cybersecurity
 AI Cybersecurity Resources
 Created January 31, 2024
-Updated May 2, 2024
+Updated June 19, 2024
 AI / ML / LLMs / NLP is a hot topic. It's even hotter when you add cybersecurity. 
 This is my research on AI Cybersecurity originally developed for presentation to the AI Omaha meetup. <br />
 Someone asked me to create a curated, annotated bibliography based on value. That is in development. I'm shy about creating a list showing value because it depends on the audience...<br />
