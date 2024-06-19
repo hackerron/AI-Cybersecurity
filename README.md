@@ -16,6 +16,7 @@ Resources:
 - CISA, 2023-2024 <i>Roadmap for Artificial Intelligence</i>, November 2023, https://www.cisa.gov/sites/default/files/2023-11/2023-2024_CISA-Roadmap-for-AI_508c.pdf
 - CISA, <i>Software Must Be Secure by Design, and Artificial Intelligence Is No Exception</i>, Aug 18, 2023 https://www.cisa.gov/news-events/news/software-must-be-secure-design-and-artificial-intelligence-no-exception
 - CISA, <i>Secure by Design</i>, https://www.cisa.gov/securebydesign
+- <i>CISA, JCDC, Government and Industry Partners Conduct AI Tabletop Exercise</i>, https://www.cisa.gov/news-events/news/cisa-jcdc-government-and-industry-partners-conduct-ai-tabletop-exercise </br><i>Joint Cyber Defense Collaborative (JCDC) Artificial Intelligence Cyber Tabletop Exercise</i>, https://www.cisa.gov/topics/partnerships-and-collaboration/joint-cyber-defense-collaborative/Joint-Cyber-Defense-Collaborative-Artificial-Intelligence-Cyber-Tabletop-Exercise
 - NIST Artificial Intelligence, https://www.nist.gov/artificial-intelligence
 - NIST AI Risk Management Framework 1.0, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf
 - NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems, Jan 04, 2024, https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems
